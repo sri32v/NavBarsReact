@@ -15,6 +15,9 @@ const Home = () => {
                 <li>
                 <Link to="/NavBar3">Nav3 </Link>
                 </li>
+                <li>
+                <Link to="/NavBar4">Nav4 </Link>
+                </li>
             </ul>
         </div>
     )

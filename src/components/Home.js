@@ -16,10 +16,13 @@ const Home = () => {
           <Link to="/NavBar3">Nav3 </Link>
         </li>
         <li>
-          <Link to="/NavBar4">Nav4 </Link>
+          <Link to="/NavBar4">Nav4 Sticky </Link>
         </li>
         <li>
           <Link to="/NavBar5">Nav5 Responsive </Link>
+        </li>
+        <li>
+          <Link to="/NavBar6">Nav6 Responsive </Link>
         </li>
       </ul>
     </div>
